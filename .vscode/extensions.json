@@ -1,0 +1,21 @@
+{
+	// See http://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		"danmannock.vscode-fsharp-refactor",
+		"eamodio.gitlens",
+		"Ionide.Ionide-FAKE",
+		"Ionide.Ionide-fsharp",
+		"Ionide.Ionide-Paket",
+		"paolodellepiane.fantomas-fmt",
+		"pflannery.vscode-versionlens",
+		"streetsidesoftware.code-spell-checker",
+		"vector-of-bool.gitflow"
+	],
+	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+	"unwantedRecommendations": [
+		
+	]
+}
